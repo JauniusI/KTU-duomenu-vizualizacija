@@ -36,3 +36,4 @@ Išvados:
 Shiny R aplikacijos nuotrauka:
 
 ![shiny app](img/shiny.png)
+![shiny app](img/shiny2.png)
